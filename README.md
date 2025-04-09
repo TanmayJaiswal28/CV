@@ -1,4 +1,4 @@
-link:-https://github.com/TanmayJaiswal28/CV.git
+Project Url-http://tanmaycv.fwh.is/?i=1
 
 📝 Project Description
 
